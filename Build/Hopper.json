@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Hopper.data.unityweb",
+"asmCodeUrl": "Hopper.asm.code.unityweb",
+"asmMemoryUrl": "Hopper.asm.memory.unityweb",
+"asmFrameworkUrl": "Hopper.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#47802E"
+}
